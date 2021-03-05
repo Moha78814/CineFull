@@ -19,7 +19,7 @@
         {
             "id": "M03",
             "title": "Transporter 3",
-            "year": "2008.00",
+            "year": 2008,
             "category": "Action",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f1/Transporter_3_poster.jpg",
             "videoUrl": "http://185.105.102.44/2018/film/khareji/Transporter%203%202008/Transporter.3.2008.480p.BluRay.filmha_co.mkv"
@@ -27,10 +27,10 @@
         {
             "id": "M04",
             "title": "The death of superman",
-            "year": "2018.00",
+            "year": 2018,
             "category": "Adventure",
             "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/71FC6tOcGEL._AC_SL1451_.jpg",
-            "videoUrl": "http://185.105.102.44/2018/film/khareji/The%20Death%20Of%20Superman%202018/"
+            "videoUrl": "http://185.105.102.44/2018/film/khareji/The%20Death%20Of%20Superman%202018/The.Death.Of.Superman.2018.480p.BluRay.Farsi.Dubbed.filmha_co.mkv"
         }
       ]
 }
