@@ -31,6 +31,62 @@
             "category": "Adventure",
             "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/71FC6tOcGEL._AC_SL1451_.jpg",
             "videoUrl": "http://185.105.102.44/2018/film/khareji/The%20Death%20Of%20Superman%202018/The.Death.Of.Superman.2018.480p.BluRay.Farsi.Dubbed.filmha_co.mkv"
+        },
+         {
+            "id": "M01",
+            "title": "Transporter 3",
+            "year": "2008",
+            "category": "Action",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f1/Transporter_3_poster.jpg",
+            "videoUrl": "http://185.105.102.44/2018/film/khareji/Transporter%203%202008/Transporter.3.2008.480p.BluRay.filmha_co.mkv"
+        },
+        {
+            "id": "M02",
+            "title": "5th Passenger",
+            "year": "2018",
+            "category": "Sci-Fi",
+            "coverImageUrl": "https://m.media-amazon.com/images/M/MV5BNzhlMTUwZDktOTcyNC00NTM1LTgyMmEtNjg2YjFmY2FlMTAwXkEyXkFqcGdeQXVyMjA0NjEyMDM@._V1_.jpg",
+            "videoUrl": "http://185.105.101.222/2018/film/5th%20Passenger%202018/5th.Passenger.2018.480p.WEB-DL.x264.filmha_co.mkv"
+        },
+        {
+            "id": "M03",
+            "title": "Civil Action",
+            "year": "1998",
+            "category": "Drama",
+            "coverImageUrl": "https://m.media-amazon.com/images/M/MV5BZmEzNjhiZWEtNTM5OS00ZmQyLThhYjEtNjY4ZDZhOGFkMzI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "videoUrl": "http://185.105.101.222/2018/film/A%20Civil%20Action%201998/A.Civil.Action.1998.480p.BluRay.filmha_co.mkv"
+        },
+        {
+            "id": "M04",
+            "title": "Project Power",
+            "year": "2020",
+            "category": "Action",
+            "coverImageUrl": "https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg",
+            "videoUrl": "http://afkar.ddns.net:81/Movies/Project%20Power%20(2020)/Project.Power.2020.mp4"
+        },
+        {
+            "id": "M05",
+            "title": "Fast & Furious 2",
+            "year": "2003",
+            "category": "Action",
+            "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/51MQ5ZMAPYL.jpg",
+            "videoUrl": "http://afkar.ddns.net:81/Movies/2%20Fast%202%20Furious%20(2003)/2.Fast.2.Furious.2003.mp4"
+        },
+        {
+            "id": "M06",
+            "title": "2 Guns",
+            "year": "2013",
+            "category": "Action",
+            "coverImageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/908e018a701ecd6eb12e1344412d8fbdd2d91677bc6f5de0e2dd896eae41b57e._V_SX300_.jpg",
+            "videoUrl": "http://afkar.ddns.net:81/Movies/2%20Guns%20(2013)/2.Guns.2013.mp4"
+        },
+        {
+            "id": "M07",
+            "title": "Bad Boys",
+            "year": "1995",
+            "category": "Action",
+            "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/516Ga-JRJML._AC_.jpg",
+            "videoUrl": "http://afkar.ddns.net:81/Movies/Bad%20Boys%20(1995)/Bad%20Boys%20(1995).mkv"
         }
       ]
 }
